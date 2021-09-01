@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### My name is Chris Francois, and I am a 22 year old freelancer based out of Haiti.
+
+### I currently hold a master's degree in global affairs, along with a bachelor of science in peace studies.
+
+### I'm currently learning Python and have previous limited experience with MySQL and Java through Netbeans IDE.
+
+### 👌My pronouns are they/them🏽 
 <!--
 **fzening/fzening** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
