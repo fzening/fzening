@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-### My name is Chris Francois, and I am a 22 year old freelancer based out of Haiti.
+### My name is Chris Francois, and I am a social scientist and data analyst based out of Toronto, Canada.
 
-### I currently hold a master's degree in global affairs, along with a bachelor of science in peace studies.
+### I hold a master's degree in global affairs, along with a bachelor of science in peace studies. I am also pursuing a second master's degree in development studies.
 
-### I'm currently learning Python and have previous limited experience with MySQL and Java through Netbeans IDE.
+### 🌱 I'm currently learning Python and R, and have previous limited experience with MySQL and Java through Netbeans IDE.
 
-### 👌My pronouns are they/them🏽 
+###🏽 
 <!--
 **fzening/fzening** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
