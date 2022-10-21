@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-### My name is Chris Francois, and I am a social scientist and data analyst based out of Toronto, Canada.
+### 😄 My name is Chris Francois, and I am a social scientist and data analyst based out of Toronto, Canada.
 
-### I hold a master's degree in global affairs, along with a bachelor of science in peace studies. I am also pursuing a second master's degree in development studies.
+### 💃🏽 I hold a master's degree in global affairs, along with a bachelor of science in peace studies. I am also pursuing a second master's degree in development studies.
 
 ### 🌱 I'm currently learning Python and R, and have previous limited experience with MySQL and Java through Netbeans IDE.
 
-###🏽 
 <!--
 **fzening/fzening** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
